@@ -5,6 +5,10 @@ pip install flask
 
 pip install pytest
 
+___________________
+run hot reload server
+
+./bin/server-debug.sh
 
 Test
 ----
